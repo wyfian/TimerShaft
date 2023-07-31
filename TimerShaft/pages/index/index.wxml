@@ -1,0 +1,6 @@
+<!--index.wxml-->
+  <view class="container" >
+    <view class="personalLogo"><image mode="aspectFit" src="/resource/image/WYFIANSTUDIO.png"></image></view>
+    <view>人生时间轴</view>
+    <button>编辑</button>
+  </view>

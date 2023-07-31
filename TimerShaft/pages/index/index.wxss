@@ -1,0 +1,17 @@
+/**index.wxss**/
+
+.scrollview {
+  height: 100vh;
+}
+.personalLogo
+{
+  display: flex;
+  align-items: center;
+}
+.container
+{
+  font-family: Monospace;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: bolder;
+}
